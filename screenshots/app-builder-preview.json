@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Sticky Lab",
+      "hasCanvas": false,
+      "bodyTextLen": 641,
+      "bodyTextHash": "809367b1795ecc656d5a116dc5d8f64817abef3dc4ad34aaa677d56a82dbfe8d",
+      "bodyTextPrefix": "BRAIN LAB Six labs EN हिं Sticky Lab Thirty levels. A stickman w",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Sticky Lab",
+      "hasCanvas": false,
+      "bodyTextLen": 641,
+      "bodyTextHash": "809367b1795ecc656d5a116dc5d8f64817abef3dc4ad34aaa677d56a82dbfe8d",
+      "bodyTextPrefix": "BRAIN LAB Six labs EN हिं Sticky Lab Thirty levels. A stickman w",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
